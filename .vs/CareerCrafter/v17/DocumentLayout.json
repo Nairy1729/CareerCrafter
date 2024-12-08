@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nairy\\OneDrive\\Desktop\\Cbe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15E886-F748-49D3-8FBC-374411578E73}|CareerCrafter.csproj|c:\\users\\nairy\\onedrive\\desktop\\cbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB15E886-F748-49D3-8FBC-374411578E73}|CareerCrafter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nairy\\OneDrive\\Desktop\\Cbe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nairy\\OneDrive\\Desktop\\Cbe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:41:10.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
